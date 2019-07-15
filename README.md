@@ -1,0 +1,2 @@
+# NewCore
+Core Examples
